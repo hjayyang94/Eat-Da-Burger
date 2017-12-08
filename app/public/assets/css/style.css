@@ -1,0 +1,26 @@
+body{
+  align-content: center;
+  text-align:center;
+  box-sizing: border-box;
+}
+p {
+    padding: 5px;
+    margin: 5px;
+    background: #faebd7;
+  }
+  
+  .label {
+    font-weight: bold;
+  }
+  
+  .update-form {
+    padding: 5px;
+    margin: 5px;
+    background: rgb(39, 168, 0);
+  }
+  
+  .form-group {
+    align-content: center;
+    margin-bottom: 5px;
+  }
+  
